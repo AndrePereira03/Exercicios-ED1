@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1683823862 source:c:\users\andre\downloads\labprog2_projeto_aula04\aula04\main.cpp
+	<iostream>
+	"Aluno.h"
+	"Prova.h"
+
+1683824319 c:\users\andre\downloads\labprog2_projeto_aula04\aula04\aluno.h
+	<iostream>
+	<string>
+
+1683823114 c:\users\andre\downloads\labprog2_projeto_aula04\aula04\prova.h
+	<iostream>
+
+1683823114 source:c:\users\andre\downloads\labprog2_projeto_aula04\aula04\prova.cpp
+	"Prova.h"
+
+1683823766 source:c:\users\andre\downloads\labprog2_projeto_aula04\aula04\aluno.cpp
+	"Aluno.h"
+
+1683916431 source:c:\users\andre\onedrive\햞ea de trabalho\aula04\prova.cpp
+	"Prova.h"
+
+1683914565 c:\users\andre\onedrive\햞ea de trabalho\aula04\prova.h
+	<iostream>
+
+1683904978 source:c:\users\andre\onedrive\햞ea de trabalho\aula04\aluno.cpp
+	"Aluno.h"
+
+1683854236 c:\users\andre\onedrive\햞ea de trabalho\aula04\aluno.h
+	<iostream>
+	<string>
+
+1683916313 source:c:\users\andre\onedrive\햞ea de trabalho\aula04\main.cpp
+	<iostream>
+	"Aluno.h"
+	"Prova.h"
+
+1683904978 source:c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula04\aluno.cpp
+	"Aluno.h"
+
+1683854236 c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula04\aluno.h
+	<iostream>
+	<string>
+
+1683916313 source:c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula04\main.cpp
+	<iostream>
+	"Aluno.h"
+	"Prova.h"
+
+1683914565 c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula04\prova.h
+	<iostream>
+
+1683916431 source:c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula04\prova.cpp
+	"Prova.h"
+

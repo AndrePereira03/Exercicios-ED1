@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1689551389 source:c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula08\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"ListaDupla.h"
+
+1689549869 c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula08\listadupla.h
+	"NoDuplo.h"
+
+1526870650 c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula08\noduplo.h
+
+1689551589 source:c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula08\listadupla.cpp
+	<iostream>
+	<cstdlib>
+	"ListaDupla.h"
+

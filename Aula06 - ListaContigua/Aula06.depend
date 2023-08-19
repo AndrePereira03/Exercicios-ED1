@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1683588776 source:/home/ice/Downloads/Aula06/ListaCont.cpp
+	<iostream>
+	<cstdlib>
+	"Ponto.h"
+	"ListaCont.h"
+
+1525656607 /home/ice/Downloads/Aula06/Ponto.h
+	<cmath>
+
+1683588176 /home/ice/Downloads/Aula06/ListaCont.h
+	"Ponto.h"
+
+1683587668 source:/home/ice/Downloads/Aula06/main.cpp
+	<iostream>
+	"Ponto.h"
+	"ListaCont.h"
+
+1683687681 source:c:\users\andre\downloads\aula06 (2)\aula06\main.cpp
+	<iostream>
+	"Ponto.h"
+	"ListaCont.h"
+
+1525656607 c:\users\andre\downloads\aula06 (2)\aula06\ponto.h
+	<cmath>
+
+1683686222 c:\users\andre\downloads\aula06 (2)\aula06\listacont.h
+	"Ponto.h"
+
+1683687944 source:c:\users\andre\downloads\aula06 (2)\aula06\listacont.cpp
+	<iostream>
+	<cstdlib>
+	"Ponto.h"
+	"ListaCont.h"
+
+1683687944 source:c:\users\andre\onedrive\햞ea de trabalho\aula06\listacont.cpp
+	<iostream>
+	<cstdlib>
+	"Ponto.h"
+	"ListaCont.h"
+
+1525656607 c:\users\andre\onedrive\햞ea de trabalho\aula06\ponto.h
+	<cmath>
+
+1683741071 c:\users\andre\onedrive\햞ea de trabalho\aula06\listacont.h
+	"Ponto.h"
+
+1683739708 source:c:\users\andre\onedrive\햞ea de trabalho\aula06\main.cpp
+	<iostream>
+	"Ponto.h"
+	"ListaCont.h"
+	"listamodified.h"
+
+1683739792 c:\users\andre\onedrive\햞ea de trabalho\aula06\listamodified.h
+	"Ponto.h"
+
+1689483953 source:c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula06\listacont.cpp
+	<iostream>
+	<cstdlib>
+	"Ponto.h"
+	"ListaCont.h"
+
+1525656607 c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula06\ponto.h
+	<cmath>
+
+1689481799 c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula06\listacont.h
+	"Ponto.h"
+
+1689485116 source:c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula06\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Ponto.h"
+	"ListaCont.h"
+	"listamodified.h"
+
+1683739792 c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula06\listamodified.h
+	"Ponto.h"
+

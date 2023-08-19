@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1689478387 source:c:\users\andre\onedrive\Área de trabalho\exercicios lab prog\aula05\main.cpp
+	<iostream>
+	"MatrizLin.h"
+
+1689478362 c:\users\andre\onedrive\Área de trabalho\exercicios lab prog\aula05\matrizlin.h
+
+1689478434 source:c:\users\andre\onedrive\Área de trabalho\exercicios lab prog\aula05\matrizlin.cpp
+	<iostream>
+	<cstdlib>
+	"MatrizLin.h"
+

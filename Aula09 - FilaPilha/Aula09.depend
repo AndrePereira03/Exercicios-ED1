@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1685400823 source:/home/ice/Downloads/Aula09/FilaEncad.cpp
+	<iostream>
+	<cstdlib>
+	"FilaEncad.h"
+
+1685400617 /home/ice/Downloads/Aula09/FilaEncad.h
+	"No.h"
+
+1528122242 /home/ice/Downloads/Aula09/No.h
+
+1685402753 source:/home/ice/Downloads/Aula09/main.cpp
+	<iostream>
+	"PilhaEncad.h"
+	"FilaEncad.h"
+
+1685400617 /home/ice/Downloads/Aula09/PilhaEncad.h
+	"No.h"
+
+1685400823 source:/home/ice/Downloads/Aula09/PilhaEncad.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaEncad.h"
+
+1685669405 source:c:\users\andre\downloads\aula09\filaencad.cpp
+	<iostream>
+	<cstdlib>
+	"FilaEncad.h"
+
+1685400617 c:\users\andre\downloads\aula09\filaencad.h
+	"No.h"
+
+1528122242 c:\users\andre\downloads\aula09\no.h
+
+1685668743 source:c:\users\andre\downloads\aula09\main.cpp
+	<iostream>
+	"PilhaEncad.h"
+	"FilaEncad.h"
+
+1685400617 c:\users\andre\downloads\aula09\pilhaencad.h
+	"No.h"
+
+1685669405 source:c:\users\andre\downloads\aula09\pilhaencad.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaEncad.h"
+
+1689560507 source:c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula09\filaencad.cpp
+	<iostream>
+	<cstdlib>
+	"FilaEncad.h"
+
+1689559348 c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula09\filaencad.h
+	"No.h"
+
+1528122242 c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula09\no.h
+
+1689563293 source:c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula09\main.cpp
+	<iostream>
+	"PilhaEncad.h"
+	"FilaEncad.h"
+
+1689555081 c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula09\pilhaencad.h
+	"No.h"
+
+1689555076 source:c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula09\pilhaencad.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaEncad.h"
+

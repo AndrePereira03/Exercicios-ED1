@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1689019261 source:c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula11\arvbinbusca.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1689018983 c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula11\arvbinbusca.h
+	"NoArv.h"
+
+1529888100 c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula11\noarv.h
+
+1689018998 source:c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula11\main.cpp
+	<iostream>
+	"ArvBinBusca.h"
+

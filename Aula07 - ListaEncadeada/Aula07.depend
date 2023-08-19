@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1684194949 source:/home/ice/Downloads/Aula07/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"ListaEncad.h"
+
+1684189815 /home/ice/Downloads/Aula07/ListaEncad.h
+	"No.h"
+
+1526334908 /home/ice/Downloads/Aula07/No.h
+
+1684194860 source:/home/ice/Downloads/Aula07/ListaEncad.cpp
+	<iostream>
+	<cstdlib>
+	"ListaEncad.h"
+
+1684256850 source:c:\users\andre\downloads\aula07\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"ListaEncad.h"
+
+1684189815 c:\users\andre\downloads\aula07\listaencad.h
+	"No.h"
+
+1526334908 c:\users\andre\downloads\aula07\no.h
+
+1684257242 source:c:\users\andre\downloads\aula07\listaencad.cpp
+	<iostream>
+	<cstdlib>
+	"ListaEncad.h"
+
+1689543637 source:c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula07\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"ListaEncad.h"
+
+1689493806 c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula07\listaencad.h
+	"No.h"
+
+1526334908 c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula07\no.h
+
+1689544054 source:c:\users\andre\onedrive\햞ea de trabalho\exercicios lab prog\aula07\listaencad.cpp
+	<iostream>
+	<cstdlib>
+	"ListaEncad.h"
+
